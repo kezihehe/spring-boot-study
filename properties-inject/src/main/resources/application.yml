@@ -1,0 +1,16 @@
+student:
+    name: zhangsan
+    age: 18
+    address: 北京
+    # 行内写法
+    # params: {k1: v1, k2: v2}
+    # list: [tom,jack,jery]
+    params:
+        k1: v1
+        k2: v2
+    list:
+        - tom
+        - jack
+        - jery
+
+
